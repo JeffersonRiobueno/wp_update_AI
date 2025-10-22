@@ -1,0 +1,17 @@
+# Core LangChain + OpenAI
+langchain==0.3.4
+langchain-openai==0.2.2
+
+# HTTP requests
+requests==2.32.3
+
+# PostgreSQL
+psycopg2-binary==2.9.9
+
+# Opcional: logging y utilidades
+python-dotenv==1.0.1
+tenacity==9.0.0
+
+# Si usas MCP oficial de GitHub vía HTTP
+fastapi==0.115.2
+uvicorn==0.31.0
